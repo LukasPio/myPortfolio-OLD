@@ -137,7 +137,7 @@ nav > button {
 
 .buttonDownload:hover {
     transform: scale(1.05);
-    transition: .6;
+    transition: .6s;
     filter: brightness(150%);
 }
 
