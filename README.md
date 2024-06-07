@@ -1,3 +1,5 @@
+(This project is old, I've learned a lot since I developed it, but I think it's relevant to keep it public because of the effort I had to do it at the time.)
+
 # myPortfolio
 
 I created a minimalist portfolio, in a dark style, using only CSS, HTML, and JavaScript. I just need to work on the responsiveness 
